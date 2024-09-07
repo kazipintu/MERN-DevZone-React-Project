@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Anek+Devanagari:wght@100..800&display=swap');
+
+:root {
+  --primary: #2b4dff;
+  --secondary: #0a165e;
+  --third: #1e2656;
+  --fourth: #040d43;
+}
+
+* {
+  font-family: "Anek Devanagari", sans-serif;
+}
+
+/* Header button */
+.btn-animation {
+  position: relative;
+  overflow: hidden;
+}
+
+.btn-animation .animation-top {
+  position: absolute;
+  left: 0;
+  top: 10px;
+  transition: all .4s;
+}
+
+.btn-animation .animation-bottom {
+  position: absolute;
+  left: 0;
+  bottom: -80px;
+  transition: all .4s;
+}
+
+.btn-animation:hover .animation-top {
+  position: absolute;
+  left: 0;
+  top: -80px;
+}
+
+.btn-animation:hover .animation-bottom {
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+}
+
+/* "Work With Us" and "View Services buttons" */
+.btn-animation .animation-top2 {
+  position: absolute;
+  left: 0;
+  top: 10px;
+  transition: all .4s;
+}
+
+.btn-animation .animation-bottom2 {
+  position: absolute;
+  left: 0;
+  bottom: -80px;
+  transition: all .4s;
+}
+
+.btn-animation:hover .animation-top2 {
+  position: absolute;
+  left: 0;
+  top: -80px;
+}
+
+.btn-animation:hover .animation-bottom2 {
+  position: absolute;
+  left: 0;
+  bottom: 10px;
+}
+
+.dropdown:hover .menu-arrow {
+  transform: rotate(-90deg);
+  transition: all 0.5s;
+}
+
+.dropdown-menu {
+  visibility: hidden;
+  opacity: 0;
+  top: 100px;
+  transition: all 0.4s;
+}
+
+.dropdown:hover .dropdown-menu {
+  visibility: visible;
+  opacity: 100;
+  top: 58px;
+  transition: all 0.4s;
+}
+
+.slick-next, .slick-prev {
+display: none !important;
+}
