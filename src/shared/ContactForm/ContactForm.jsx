@@ -24,7 +24,7 @@ const ContactForm = () => {
   };
 
   return (
-    <form ref={form} className='w-full'>
+    <form ref={form} onSubmit={sendEmail} className='w-full'>
       <h4 className='text-2xl text-blue-900 font-semibold'>Fill The Contact Form</h4>
       <p className='text-lg text-blue-900/85 py-3'>Feel free to contact with us, we don't spam your email</p>
       <div className="flex gap-6">
