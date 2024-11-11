@@ -23,7 +23,6 @@ const Section2 = () => {
             </button>
           </div>
         </div>
-
       </div>
     </div>
   );

@@ -108,7 +108,7 @@ const Header = () => {
             <button><FiSearch className='size-6 text-[var(--primary)] transition-all duration-200' /></button>
           </div>
         </form>
-        <p className='px-24 test-lg pt-2'>Type above and press Enter to search. Press Close to cancel.</p>
+        <p className='px-24 text-lg pt-2'>Type above and press Enter to search. Press Close to cancel.</p>
       </div>
 
       {/* mobile-menu */}

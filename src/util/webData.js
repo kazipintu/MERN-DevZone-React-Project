@@ -173,3 +173,42 @@ export const servicesData = [
     icon: "/assets/locker.svg"
   }
 ]
+
+export const reviewsData = [
+  {
+    id: 1,
+    comment: "Working with several word press themes and templates the last years, I only can say this is best in every level. I use it for my company and the reviews that I have already are all excellent. Not only the design but the code quality",
+    rating: 3,
+    name: "Brooklyn Simmons",
+    role: "Lead Developer"
+  },
+  {
+    id: 2,
+    comment: "Working with several word press themes and templates the last years, I only can say this is best in every level. I use it for my company and the reviews that I have already are all excellent. Not only the design but the code quality",
+    rating: 4,
+    name: "Alexander Cameron",
+    role: "Lead Developer"
+  },
+  {
+    id: 3,
+    comment: "Working with several word press themes and templates the last years, I only can say this is best in every level. I use it for my company and the reviews that I have already are all excellent. Not only the design but the code quality",
+    rating: 4,
+    name: "Brooklyn Simmons",
+    role: "Lead Developer"
+  },
+  {
+    id: 4,
+    comment: "Working with several word press themes and templates the last years, I only can say this is best in every level. I use it for my company and the reviews that I have already are all excellent. Not only the design but the code quality",
+    rating: 2,
+    name: "Brooklyn Simmons",
+    role: "Lead Developer"
+  },
+  {
+    id: 5,
+    comment: "Working with several word press themes and templates the last years, I only can say this is best in every level. I use it for my company and the reviews that I have already are all excellent. Not only the design but the code quality",
+    rating: 3,
+    name: "Brooklyn Simmons",
+    role: "Lead Developer"
+  },
+
+]

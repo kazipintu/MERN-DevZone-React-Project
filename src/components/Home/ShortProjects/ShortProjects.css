@@ -1,0 +1,17 @@
+.project-photo-card {
+  background-size: 100%;
+}
+
+.project-photo-card:hover {
+  background-size: 110%;
+}
+
+.project-button-card {
+  top: 100%;
+  bottom: -80%;
+}
+
+.project-photo-card:hover .project-button-card {
+  bottom: 0;
+  top: 0;
+}

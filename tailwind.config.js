@@ -10,4 +10,14 @@ export default {
   plugins: [
     require('daisyui'),
   ],
+  daisyui: {
+    themes: [
+      {
+        mytheme: {
+          "primary": "#2b4dff",
+        }
+        
+      }
+    ],
+  },
 }

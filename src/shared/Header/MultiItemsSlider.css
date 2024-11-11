@@ -1,0 +1,54 @@
+.slider-learn .withHover {
+  width: 0px !important;
+  height: 18px !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-tranistion: all 0.4s;
+  -o-transition: all 0.4s;
+}
+
+.slider-learn:hover .withHover {
+  width: 18px !important;
+  height: 18px !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-tranistion: all 0.4s;
+  -o-transition: all 0.4s;
+}
+
+.slider-learn .withoutHover {
+  width: 18px !important;
+  height: 18px !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-tranistion: all 0.4s;
+  -o-transition: all 0.4s;
+}
+
+.slider-learn:hover .withoutHover {
+  width: 0px !important;
+  height: 18px !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-tranistion: all 0.4s;
+  -o-transition: all 0.4s;
+}
+
+.slick-dots li button:hover {
+  border: 2px solid blue !important;
+  border-radius: 100% !important;
+  transition: all 0.2s !important;
+}
+
+.slider-card:hover .slider-icon {
+  background-color: rgb(43, 77, 255) !important;
+  transition: all 0.4s;
+  -webkit-transition: all 0.4s;
+  -moz-transition: all 0.4s;
+  -ms-tranistion: all 0.4s;
+  -o-transition: all 0.4s;
+}
