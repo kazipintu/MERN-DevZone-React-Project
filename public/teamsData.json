@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "username": "Marvin",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team1.png",
+    "name": "Marvin McKinney",
+    "designation": "CEO & Founder",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 2,
+    "username": "Sophia",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team2.png",
+    "name": "Sophia Rodriguez",
+    "designation": "Creative Director",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 3,
+    "username": "Mckinney",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team3.png",
+    "name": "McKinney Marvin",
+    "designation": "Lead Developer",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 4,
+    "username": "Alexander",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team4.png",
+    "name": "Alexander Cameron",
+    "designation": "Product Designer",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 5,
+    "username": "Barbara",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team5.png",
+    "name": "Barbara Dundas",
+    "designation": "Digital Marketer",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 6,
+    "username": "Zachary",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team6.png",
+    "name": "Zachary Collins",
+    "designation": "Cyber Specialist",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 7,
+    "username": "Mona",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team7.png",
+    "name": "Mona Zaghloul",
+    "designation": "Lead Developer",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  },
+  {
+    "id": 8,
+    "username": "Kari",
+    "photo": "https://optechanimation1.netlify.app/assets/images/team/team8.png",
+    "name": "Kari Rasmussen",
+    "designation": "Cyber Specialist",
+    "social": {
+      "linkedIn": "/",
+      "twitter": "/",
+      "instagram": "/",
+      "facebook": "/"
+    },
+    "description": "A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively.",
+    "phone": "518-564-3200",
+    "email": "mthemeus@example.com"
+  }
+]

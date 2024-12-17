@@ -28,7 +28,7 @@ const Blog = () => {
   ]
 
   return (
-    <div className="bg-stone-200 py-[50px]">
+    <div className="bg-stone-200 py-[100px]">
       <div className="container mx-auto lg:px-[100px]">
         <div className="flex flex-wrap justify-between items-center">
           <h1 className="text-4xl md:text-5xl text-left pb-12 font-semibold text-blue-900">Recent blog & articles <br /> about technology </h1>

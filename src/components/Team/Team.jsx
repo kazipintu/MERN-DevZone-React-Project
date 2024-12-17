@@ -3,8 +3,14 @@ import { Link } from "react-router-dom";
 import "./Team.css";
 import { FaTwitter } from "react-icons/fa";
 import { AiFillInstagram } from "react-icons/ai";
+import React from "react";
 
 const Team = () => {
+
+  React.useEffect(() => {
+    window.scrollTo(0, 0);
+    document.title = "Team";
+  })
 
   const teamData = [
     {

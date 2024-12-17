@@ -5,6 +5,13 @@ import FAQ from './FAQ';
 import WorkTogether from '../About-us/WorkTogether/WorkTogether';
 
 const Pricing = () => {
+
+  React.useEffect(() => {
+    window.scrollTo(0, 0);
+    document.title = "Pricing";
+
+  }, [])
+
   return (
     <div>
       <PricingBanner />

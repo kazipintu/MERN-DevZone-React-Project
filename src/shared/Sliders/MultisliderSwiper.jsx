@@ -3,14 +3,13 @@ import { Swiper, SwiperSlide } from 'swiper/react';
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
-
 import { RiLinkedinFill } from 'react-icons/ri';
 import { FaTwitter } from 'react-icons/fa';
 import { AiFillInstagram } from 'react-icons/ai';
 import { Link } from 'react-router-dom';
 import { Autoplay, Pagination } from 'swiper/modules';
 
-const MultisliderSwiper = ({ data }) => {
+const MultisliderSwiper = ({data}) => {
   return (
     <div className='w-full'>
       <Swiper
@@ -43,8 +42,8 @@ const MultisliderSwiper = ({ data }) => {
       >
         {
           data?.map((dat, i) => (
-            <SwiperSlide>
-              <div key={i} className="w-full border hover:border-none shadow-xl hover:shadow-none bg-white rounded-2xl overflow-hidden relative team-card">
+            <SwiperSlide key={i} >
+              <div className="w-full border hover:border-none shadow-xl hover:shadow-none bg-white rounded-2xl overflow-hidden relative team-card">
 
                 <div className="overflow-hidden relative">
                   <img className="w-full object-cover h-[281px] hover:scale-110 scale-100 transition-all duration-500" src={dat?.img} alt="single-member" />

@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import AboutBanner from "./AboutBanner/AboutBanner";
 import Technology from "./Technology/Technology";
 import AboutServices from "./AboutServices/AboutServices";
@@ -9,6 +9,11 @@ import ShortContact from "./ShortContact/ShortContact";
 import WorkTogether from "./WorkTogether/WorkTogether";
 
 const About = () => {
+
+  React.useEffect(() => {
+    window.scrollTo(0, 0);
+    document.title = "About-us"
+  }, [])
 
   useEffect(() => {
     window.scrollTo(0, 0)

@@ -1,0 +1,19 @@
+a:hover .social-icon {
+  color: white !important;
+}
+
+.team-card .social {
+  position: absolute;
+  left: -100%;
+  visibility: hidden;
+}
+
+.team-card:hover .social {
+  left: 16px;
+  top: 16px;
+  visibility: visible;
+}
+
+.team-single button {
+  width: 200px;
+}
