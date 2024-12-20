@@ -13,3 +13,8 @@ a:hover .social-icon {
   top: 16px;
   visibility: visible;
 }
+
+/* .team-card:hover img {
+  scale: 110%;
+  transition: all .5s ease-in-out;
+} */

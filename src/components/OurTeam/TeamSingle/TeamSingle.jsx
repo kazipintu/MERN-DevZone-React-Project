@@ -17,7 +17,6 @@ const TeamSingle = () => {
   const singleName = encodedName && decodeURIComponent(encodedName);
   console.log(singleName);
   //console.log(encodedName);
-  // const decodedName = 
 
   // /team-single/Marvin%20McKinney
 

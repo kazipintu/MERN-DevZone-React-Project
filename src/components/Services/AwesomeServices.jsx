@@ -29,7 +29,7 @@ const AwesomeServices = () => {
               <div className='w-auto flex-grow space-y-3'>
                 <h1 className='text-2xl font-semibold text-blue-900'>{data?.title}</h1>
                 <p >{data?.description}</p>
-                <Link className='flex gap-3 items-center font-semibold text-blue-700' to={`/service-details/${data?.id}`}>Learn more<FaArrowRightLong className='size-5' /></Link>
+                <Link className="flex gap-2 items-center pt-5 text-[var(--primary)] font-semibold slider-learn" to={`/service-details/${data?.id}`}><FaArrowRightLong className="withHover" /> Learn More <FaArrowRightLong className="withoutHover" /> </Link>
               </div>
             </div>
           ))

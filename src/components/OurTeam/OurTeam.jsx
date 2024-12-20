@@ -43,10 +43,10 @@ const OurTeam = () => {
       <div className="py-[100px] flex flex-wrap justify-center gap-6 items-center bg-[#fdfdfd]">
         {
           teamsData?.map((member, i) => (
-            <div key={i} className="w-full sm:w-[261px] bg-white border rounded-2xl overflow-hidden relative team-card hover:shadow-lg hover:border-transparent transition-all duration-300">
+            <div key={i} className="w-full sm:w-[261px] bg-white border rounded-2xl overflow-hidden relative team-card hover:shadow-xl hover:border-transparent transition-all duration-300">
 
               <div className="overflow-hidden relative">
-                <img className="w-full object-cover h-[281px] hover:scale-110 scale-100 transition-all duration-500" src={member?.photo} alt="single-member" />
+                <img className="w-full object-cover h-[281px] scale-100" src={member?.photo} alt="single-member" />
               </div>
 
               <div className="w-full bg-white py-5 px-5 tracking-wider">

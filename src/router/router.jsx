@@ -8,6 +8,8 @@ import Contact from "../components/Contact/Contact";
 import Services from "../components/Services/Services";
 import ServiceDetails from "../components/Services/ServiceDetails/ServiceDetails";
 import TeamSingle from "../components/OurTeam/TeamSingle/TeamSingle";
+import Blogs from "../components/Blogs/Blogs";
+import BlogDetails from "../components/Blogs/BlogDetails";
 
 const router = createBrowserRouter([
   {
@@ -45,6 +47,14 @@ const router = createBrowserRouter([
       {
         path: "/team-single/:name",
         element: <TeamSingle />
+      },
+      {
+        path: "/blogs",
+        element: <Blogs />
+      },
+      {
+        path: "/blog-details/:id",
+        element: <BlogDetails />
       },
 
     ]

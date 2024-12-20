@@ -58,10 +58,10 @@ const Team = () => {
         <div className="flex flex-wrap justify-center gap-6 items-center">
           {
             teamData?.map((member, i) => (
-              <div key={i} className="w-full sm:w-[261px] bg-white rounded-2xl overflow-hidden relative team-card">
-
+              <div key={i} className="w-full sm:w-[261px] bg-white rounded-2xl overflow-hidden relative team-card border hover:shadow-lg hover:border-transparent transition-all duration-300 ease-in-out">
+                
                 <div className="overflow-hidden relative">
-                  <img className="w-full object-cover h-[281px] hover:scale-110 scale-100 transition-all duration-500" src={member?.img} alt="single-member" />
+                  <img className="w-full object-cover h-[281px] scale-100 hover:scale-110 transition-all duration-300 ease-in-out" src={member?.img} alt="single-member" />
                 </div>
 
                 <div className="w-full bg-white py-5 px-5 tracking-wider">
@@ -69,10 +69,10 @@ const Team = () => {
                   <p className="text-md text-blue-950/85 py-2">{member?.role}</p>
                 </div>
 
-                <div className="social flex flex-col gap-3 absolute transition-all duration-1000">
-                  <Link className="bg-white hover:bg-blue-700 transition-all duration-200 rounded-md size-[40px] flex justify-center items-center" to="#"><RiLinkedinFill className="size-[20px] social-icon text-blue-950" /></Link>
-                  <Link className="bg-white hover:bg-blue-700 transition-all duration-200 rounded-md size-[40px] flex justify-center items-center" to="#"><FaTwitter className="size-[20px] social-icon text-blue-950" /></Link>
-                  <Link className="bg-white hover:bg-blue-700 transition-all duration-200 rounded-md size-[40px] flex justify-center items-center" to="#"><AiFillInstagram className="size-[20px] social-icon text-blue-950" /></Link>
+                <div className="social flex flex-col gap-3 absolute social-icons transition-all duration-300 ease-in-out">
+                  <Link className="bg-white hover:bg-blue-700 transition-all duration-300 rounded-md size-[40px] flex justify-center items-center" to="#"><RiLinkedinFill className="size-[20px] social-icon text-blue-950" /></Link>
+                  <Link className="bg-white hover:bg-blue-700 transition-all duration-300 rounded-md size-[40px] flex justify-center items-center" to="#"><FaTwitter className="size-[20px] social-icon text-blue-950" /></Link>
+                  <Link className="bg-white hover:bg-blue-700 transition-all duration-300 rounded-md size-[40px] flex justify-center items-center" to="#"><AiFillInstagram className="size-[20px] social-icon text-blue-950" /></Link>
                 </div>
               </div>
             ))

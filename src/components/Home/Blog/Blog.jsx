@@ -1,5 +1,6 @@
-import { FaArrowRight } from "react-icons/fa";
+import { FaArrowRightLong } from "react-icons/fa6";
 import { Link } from "react-router-dom";
+import './Blog.css';
 
 const Blog = () => {
 
@@ -54,7 +55,7 @@ const Blog = () => {
                   <p className="tracking-wide text-md text-blue-950/85">{blog?.date}</p>
                 </div>
                 <h4 className="w-3/4 tracking-wide text-xl font-bold text-blue-900">{blog?.title}</h4>
-                <Link className="flex gap-2 items-center pt-8 text-[var(--primary)] font-semibold slider-learn" to={'service/${data.id}'}><FaArrowRight className="withHover" /> Learn More <FaArrowRight className="withoutHover" /> </Link>
+                <Link className="flex gap-2 items-center pt-5 text-[var(--primary)] font-semibold slider-learn" to={'/blogs'}><FaArrowRightLong className="withHover" /> Learn More <FaArrowRightLong className="withoutHover" /> </Link>
               </div>
             </div>
           ))

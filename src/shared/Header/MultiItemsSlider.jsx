@@ -2,9 +2,9 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { Link } from "react-router-dom";
-import { FaArrowRight } from "react-icons/fa";
 
 import "./MultiItemsSlider.css";
+import { FaArrowRightLong } from "react-icons/fa6";
 
 const MultiItemsSlider = (props) => {
 
@@ -61,7 +61,7 @@ const MultiItemsSlider = (props) => {
                 <h3 className="text-lg font-semibold text-blue-950 pt-7">{data?.title}</h3>
                 <p className="text-md text-blue-950/90 pt-5">{data?.content?.goal?.substring(1, 50)}...</p>
 
-                <Link className="flex gap-2 items-center pt-5 text-[var(--primary)] font-semibold slider-learn" to={'service/${data.id}'}><FaArrowRight className="withHover" /> Learn More <FaArrowRight className="withoutHover" /> </Link>
+                <Link className="flex gap-2 items-center pt-5 text-[var(--primary)] font-semibold slider-learn" to={'service/${data.id}'}><FaArrowRightLong className="withHover" /> Learn More <FaArrowRightLong className="withoutHover" /> </Link>
               </div>
             </div>
           ))
