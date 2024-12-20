@@ -35,13 +35,11 @@ export default function BlogDetails() {
       );
   };
 
-
-
   const location = useLocation();
   const pathName = location.pathname;
   //console.log(pathName);
   const dataId = pathName.split('/blog-details/')[1];
-  //console.log(pathId);
+  //console.log(dataId);
 
   const [blogsData, setBlogsData] = React.useState();
 
@@ -190,7 +188,7 @@ export default function BlogDetails() {
           </div>
 
           {/* Right-side section */}
-          <div className='w-full md:col-span-1'>
+          <div className='w-full md:col-span-1 mt-12'>
             <div className='bg-[#f4f5f6] rounded-2xl p-[30px]'>
               <h3 className='text-[20px] font-semibold tracking-wider leading-loose text-blue-950/90 pb-5'>Search</h3>
               <div className="relative flex w-[276px] h-[60px]">

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "category": "Design, Graphics",
+    "subcategory": "Digital Product Design",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p1.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 2,
+    "category": "Health App Development",
+    "subcategory": "Development, Software",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p2.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 3,
+    "category": "Marketing Agency Website",
+    "subcategory": "Development, Marketing",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p3.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 4,
+    "category": "Cyber Security Analysis",
+    "subcategory": "Security, Technology",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p4.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 5,
+    "category": "Project for Marketing",
+    "subcategory": "Marketing, Business",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p5.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 6,
+    "category": "CMS Software Solution",
+    "subcategory": "Technology, Software",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p6.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 7,
+    "category": "Multifunction Technology",
+    "subcategory": "Technology, Software",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p7.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 8,
+    "category": "Digital Product Design",
+    "subcategory": "Design, Graphics",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p8.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  },
+  {
+    "id": 9,
+    "category": "Software Development",
+    "subcategory": "Development, Software",
+    "bg": "https://optechanimation1.netlify.app/assets/images/p2/p9.png",
+    "content1": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>A content management system helps you create, manage, and publish content on the web. It also keep content organized and accessible so it can be used and repurposed effectively. There are various kinds of content management systems available—from cloud-based to a headless</p> <p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'> CMS provides user-friendly features for easy editing and is compatible with installing plugins and tools that provide even more features for advanced functions. API CMSs are built to have an excellent user-friendly interface that is easy to use.</p>",
+    "content2": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5 pb-12'>A content management system (CMS) is an application that is used to manage content, allowing multiple contributors to create, edit and publish. Content in a CMS is typically stored in a database and displayed in a presentation layer based on a set of templates like a website.</p><div class='content-img'> <img src='https://optechanimation1.netlify.app/assets/images/p2/p2.png' alt='' /> <img src='https://optechanimation1.netlify.app/assets/images/p2/p3.png' alt='' /></div>",
+    "feature": [
+      "Creating and editing content",
+      "Workflows, reporting, and content organization",
+      "User & role-based administration and security",
+      "Flexibility, scalability, and performance and analysis",
+      "Multilingual content capabilities"
+    ],
+    "content3": "<p className='text-sm md:text-md text-left text-blue-900/95 leading-4 tracking-wider leading-loose pt-5'>Having a content management system for your website allows you to have control of your content. It means having the ability to update, change or delete any images, text, video, or audio. It allows you to keep your site organized, up to date and looking.</p>"
+  }
+]

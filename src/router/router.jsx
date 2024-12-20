@@ -10,6 +10,8 @@ import ServiceDetails from "../components/Services/ServiceDetails/ServiceDetails
 import TeamSingle from "../components/OurTeam/TeamSingle/TeamSingle";
 import Blogs from "../components/Blogs/Blogs";
 import BlogDetails from "../components/Blogs/BlogDetails";
+import PortfolioGrid from "../components/PortfolioGrid/PortfolioGrid";
+import FolioDetails from "../components/PortfolioGrid/FolioDetails";
 
 const router = createBrowserRouter([
   {
@@ -56,7 +58,14 @@ const router = createBrowserRouter([
         path: "/blog-details/:id",
         element: <BlogDetails />
       },
-
+      {
+        path: "/portfolio",
+        element: <PortfolioGrid />
+      },
+      {
+        path: "/folio-details/:id",
+        element: <FolioDetails />
+      }
     ]
   }
 ])
